@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <img alt="GitHub Stats" height="200px" src="https://github-readme-stats-gray-nu.vercel.app/api?username=naokini&hide=stars&show=reviews&show_icons=true" />
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats-gray-nu.vercel.app/api/top-langs/?username=naokini&layout=compact" />
+  <img alt="GitHub Stats" height="180px" src="https://github-readme-stats-gray-nu.vercel.app/api?username=naokini&hide=stars&show=reviews&show_icons=true" />
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats-gray-nu.vercel.app/api/top-langs/?username=naokini&layout=compact" />
 </p>
